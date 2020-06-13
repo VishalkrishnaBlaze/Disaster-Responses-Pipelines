@@ -33,3 +33,16 @@ Clone this Git repository:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+#### Results
+
+1. The first page that you get
+![First page](Screenshots/intro.png)
+----
+2. This is an example of a message you can type to test Machine Learning model performance
+![Sample Input](screenshots/sample_input.png)
+----
+3. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
+![Sample Output](screenshots/sample_output.png)
+----
+4. The main page shows some graphs about training dataset, provided by Figure Eight
+![Main Page](screenshots/main_page.png)
