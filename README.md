@@ -36,7 +36,7 @@ Clone this Git repository:
 #### Results
 
 1. The first page that you get
-![First page](Screenshots/intro.png)
+![Intro Pic](Screenshots/intro.png)
 ----
 2. This is an example of a message you can type to test Machine Learning model performance
 ![Sample Input](screenshots/sample_input.png)
